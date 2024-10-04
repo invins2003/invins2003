@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ambit Misra AKA INVINS</h1>
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=invins2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for invins2003" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=invins2003" alt="Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=invins2003&theme=dracula&no-frame=true" alt="Profile Trophy" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/invins_idle" target="blank">
     <img src="https://img.shields.io/twitter/follow/invins_idle?logo=twitter&style=for-the-badge" alt="Twitter: invins_idle" />
   </a>
@@ -17,8 +17,8 @@
 
 - 📫 How to reach me: **ambit.official.misra@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://codepen.io/invins" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
   </a>
@@ -39,8 +39,8 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
     <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="AWS Amplify" width="40" height="40"/>
   </a>
@@ -115,10 +115,24 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=invins2003&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=invins2003&show_icons=true&locale=en" alt="GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=invins2003&theme=dracula" alt="GitHub Streak" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=invins2003&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  </a>
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=invins2003&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <a href="https://wakatime.com/@INVINS">
+    <img src="https://wakatime.com/badge/user/7dcac217-8a22-40c3-b3c6-1e2f69cc24b7.svg" alt="Wakatime Badge" />
+  </a>
 </p>
