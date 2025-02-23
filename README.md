@@ -162,7 +162,7 @@ I’m a full-stack developer with a love for building scalable, efficient, and u
 
 ---
 
-### 🎯 **Goals for 2025**
+### 🎯 **Goals for 2023**
 - 🚀 Contribute to more open-source projects.
 - 🌱 Learn and master **Rust** and **Go**.
 - 📱 Build a full-stack mobile app with **Flutter** and **Firebase**.
@@ -175,6 +175,7 @@ I believe in the power of code to change the world, one line at a time. When I'm
 
 ---
 
+### 🐍 **Snake Animation**
 <p align="center">
-  <img src="https://github.com/invins2003/invins2003/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/invins2003/invins2003/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
