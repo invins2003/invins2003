@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ambit Misra AKA INVINS</h1>
+<h1 align="center">👋 Hey there, I'm Ambit Misra (AKA INVINS)</h1>
+<h3 align="center">A Passionate Developer, Innovator, and Tech Enthusiast 🚀</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=invins2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for invins2003" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=invins2003&theme=dracula&no-frame=true" alt="Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=invins2003&theme=dracula&no-frame=true&row=1&column=7" alt="Profile Trophy" />
   </a>
 </p>
 
@@ -15,9 +17,22 @@
   </a>
 </p>
 
-- 📫 How to reach me: **ambit.official.misra@gmail.com**
+---
 
-<h3 align="center">Connect with me:</h3>
+### 🛠️ **What I Do**
+I’m a full-stack developer with a love for building scalable, efficient, and user-friendly applications. My expertise spans across **Android Development**, **Machine Learning**, **Cloud Computing**, and **Web Development**. I’m always exploring new technologies and pushing the boundaries of what’s possible.
+
+---
+
+### 📬 **Get in Touch**
+- 📧 **Email:** [ambit.official.misra@gmail.com](mailto:ambit.official.misra@gmail.com)
+- 💼 **LinkedIn:** [Ambit Misra](https://linkedin.com/in/ambitmisra)
+- 🐦 **Twitter:** [@invins_idle](https://twitter.com/invins_idle)
+- 📝 **Medium:** [@ambitmisra](https://medium.com/@ambitmisra)
+
+---
+
+### 🌐 **Connect with Me**
 <p align="center">
   <a href="https://codepen.io/invins" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
@@ -39,7 +54,9 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+---
+
+### 🛠️ **Languages and Tools**
 <p align="center">
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
     <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="AWS Amplify" width="40" height="40"/>
@@ -115,9 +132,12 @@
   </a>
 </p>
 
+---
+
+### 📊 **GitHub Stats**
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=invins2003&show_icons=true&locale=en" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=invins2003&show_icons=true&theme=dracula" alt="GitHub Stats" />
   </a>
 </p>
 <p align="center">
@@ -127,12 +147,34 @@
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=invins2003&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=invins2003&layout=compact&theme=dracula" alt="Top Languages" />
   </a>
 </p>
 
+---
+
+### ⏳ **WakaTime Stats**
 <p align="center">
   <a href="https://wakatime.com/@INVINS">
     <img src="https://wakatime.com/badge/user/7dcac217-8a22-40c3-b3c6-1e2f69cc24b7.svg" alt="Wakatime Badge" />
   </a>
+</p>
+
+---
+
+### 🎯 **Goals for 2023**
+- 🚀 Contribute to more open-source projects.
+- 🌱 Learn and master **Rust** and **Go**.
+- 📱 Build a full-stack mobile app with **Flutter** and **Firebase**.
+- 🤖 Dive deeper into **AI/ML** and explore **Generative AI**.
+
+---
+
+### 💡 **Fun Fact**
+I believe in the power of code to change the world, one line at a time. When I'm not coding, you'll find me exploring new music, reading sci-fi novels, or tinkering with hardware projects.
+
+---
+
+<p align="center">
+  <img src="https://github.com/invins2003/invins2003/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
