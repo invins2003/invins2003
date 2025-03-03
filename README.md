@@ -162,7 +162,7 @@ I’m a full-stack developer with a love for building scalable, efficient, and u
 
 ---
 
-### 🎯 **Goals for 2023**
+### 🎯 **Goals for 2025**
 - 🚀 Contribute to more open-source projects.
 - 🌱 Learn and master **Rust** and **Go**.
 - 📱 Build a full-stack mobile app with **Flutter** and **Firebase**.
