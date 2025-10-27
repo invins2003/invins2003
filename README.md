@@ -80,7 +80,9 @@ From crafting sleek mobile apps to diving deep into AI models — I’m constant
 ## ⏱ WakaTime Stats
 
 <p align="center">
-  [![WakaTime Badge](https://wakatime.com/badge/user/7dcac217-8a22-40c3-b3c6-1e2f69cc24b7.svg)](https://wakatime.com/@INVINS)
+  <a href="https://wakatime.com/@INVINS">
+    <img src="https://wakatime.com/badge/user/7dcac217-8a22-40c3-b3c6-1e2f69cc24b7.svg" alt="WakaTime Badge" />
+  </a>
 </p>
 
 ---
