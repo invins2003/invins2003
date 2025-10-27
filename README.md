@@ -46,12 +46,12 @@ From crafting sleek mobile apps to diving deep into AI models — I’m constant
 ## 🌐 Social Presence
 
 <p align="center">
-  <a href="https://codepen.io/invins" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" height="40" /></a>
-  <a href="https://twitter.com/invins_idle" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
-  <a href="https://linkedin.com/in/ambitmisra" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://instagram.com/_dis__placed_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-  <a href="https://medium.com/@ambitmisra" target="_blank"><img src="https://skillicons.dev/icons?i=medium" height="40" /></a>
-  <a href="https://www.hackerrank.com/@ambitmisra" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" height="40" /></a>
+  <a href="https://codepen.io/invins" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" height="40" alt="CodePen" /></a>
+  <a href="https://twitter.com/invins_idle" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/ambitmisra" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/_dis__placed_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" /></a>
+  <a href="https://medium.com/@ambitmisra" target="_blank"><img src="https://skillicons.dev/icons?i=medium" height="40" alt="Medium" /></a>
+  <a href="https://www.hackerrank.com/@ambitmisra" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" height="40" alt="HackerRank" /></a>
 </p>
 
 ---
@@ -59,7 +59,7 @@ From crafting sleek mobile apps to diving deep into AI models — I’m constant
 ## ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,kotlin,python,tensorflow,pytorch,sklearn,opencv,react,firebase,mongodb,aws,django,flask,docker,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,kotlin,python,tensorflow,pytorch,sklearn,opencv,react,firebase,mongodb,aws,django,flask,docker,git,postman,figma" alt="My Tech Stack" />
 </p>
 
 ---
@@ -67,12 +67,12 @@ From crafting sleek mobile apps to diving deep into AI models — I’m constant
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=invins2003&show_icons=true&theme=dracula" height="160px" />
-  <img src="https://streak-stats.demolab.com/?user=invins2003&theme=dracula" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=invins2003&show_icons=true&theme=dracula" height="160px" alt="Ambit's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=invins2003&theme=dracula" height="160px" alt="Ambit's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=invins2003&layout=compact&theme=dracula" height="140px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=invins2003&layout=compact&theme=dracula" height="140px" alt="Ambit's Top Languages" />
 </p>
 
 ---
@@ -90,7 +90,8 @@ From crafting sleek mobile apps to diving deep into AI models — I’m constant
 ## 🎯 2025 Goals
 
 - 🌍 Contribute more to **open-source** projects  
-- ⚙️ Master **Rust** and **Go** - 📱 Build a **Full-Stack Flutter + Firebase** app  
+- ⚙️ Master **Rust** and **Go**
+- 📱 Build a **Full-Stack Flutter + Firebase** app  
 - 🤖 Explore **Generative AI** and **MLOps**
 
 ---
@@ -105,7 +106,7 @@ When I’m not coding, I’m probably:
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/invins2003/invins2003/main/assets/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/invins2003/invins2003/main/assets/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
