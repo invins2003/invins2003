@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hey there, I'm Ambit Misra (AKA INVINS)</h1>
-<h3 align="center">A Passionate Developer, Innovator, and Tech Enthusiast 🚀</h3>
+<h1 align="center">👋 Hey, I'm <span style="color:#ff79c6;">Ambit Misra</span> (aka INVINS)</h1>
+<h3 align="center">💻 Full-Stack Developer | 🚀 Innovator | 🤖 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=invins2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for invins2003" />
+  <img src="https://komarev.com/ghpvc/?username=invins2003&label=Profile%20Views&color=ff79c6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -13,169 +13,104 @@
 
 <p align="center">
   <a href="https://twitter.com/invins_idle" target="blank">
-    <img src="https://img.shields.io/twitter/follow/invins_idle?logo=twitter&style=for-the-badge" alt="Twitter: invins_idle" />
+    <img src="https://img.shields.io/twitter/follow/invins_idle?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
 
 ---
 
-### 🛠️ **What I Do**
-I’m a full-stack developer with a love for building scalable, efficient, and user-friendly applications. My expertise spans across **Android Development**, **Machine Learning**, **Cloud Computing**, and **Web Development**. I’m always exploring new technologies and pushing the boundaries of what’s possible.
+## 🧠 About Me
+
+I’m a **Full-Stack Developer** who loves building things that make a difference.  
+From crafting sleek mobile apps to diving deep into AI models — I’m constantly exploring, learning, and innovating.
+
+💡 **Core Focus Areas:**
+- 📱 Android & Flutter App Development  
+- ☁️ Cloud Computing & Backend Systems (Firebase / AWS)  
+- 🧠 Machine Learning & Computer Vision  
+- 🌐 Full-Stack Web Development  
+
+⚡ *I believe great code isn’t just functional — it’s elegant, efficient, and human-friendly.*
 
 ---
 
-### 📬 **Get in Touch**
-- 📧 **Email:** [ambit.official.misra@gmail.com](mailto:ambit.official.misra@gmail.com)
-- 💼 **LinkedIn:** [Ambit Misra](https://linkedin.com/in/ambitmisra)
-- 🐦 **Twitter:** [@invins_idle](https://twitter.com/invins_idle)
-- 📝 **Medium:** [@ambitmisra](https://medium.com/@ambitmisra)
+## 📬 Connect With Me
+
+📧 **Email:** [ambit.official.misra@gmail.com](mailto:ambit.official.misra@gmail.com)  
+💼 **LinkedIn:** [Ambit Misra](https://linkedin.com/in/ambitmisra)  
+🐦 **Twitter:** [@invins_idle](https://twitter.com/invins_idle)  
+📝 **Medium:** [@ambitmisra](https://medium.com/@ambitmisra)
 
 ---
 
-### 🌐 **Connect with Me**
+## 🌐 Social Presence
+
 <p align="center">
-  <a href="https://codepen.io/invins" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/invins_idle" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/ambitmisra" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_dis__placed_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@ambitmisra" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/@ambitmisra" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
+  <a href="https://codepen.io/invins" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" height="40" /></a>
+  <a href="https://twitter.com/invins_idle" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
+  <a href="https://linkedin.com/in/ambitmisra" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://instagram.com/_dis__placed_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+  <a href="https://medium.com/@ambitmisra" target="_blank"><img src="https://skillicons.dev/icons?i=medium" height="40" /></a>
+  <a href="https://www.hackerrank.com/@ambitmisra" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" height="40" /></a>
 </p>
 
 ---
 
-### 🛠️ **Languages and Tools**
+## ⚙️ Tech Stack & Tools
+
 <p align="center">
-  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
-    <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="AWS Amplify" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,kotlin,python,tensorflow,pytorch,sklearn,opencv,react,firebase,mongodb,aws,django,flask,docker,git,postman,figma" />
 </p>
 
 ---
 
-### 📊 **GitHub Stats**
+## 📊 GitHub Analytics
+
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=invins2003&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=invins2003&show_icons=true&theme=dracula" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=invins2003&theme=dracula" height="160px" />
 </p>
+
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=invins2003&theme=dracula" alt="GitHub Streak" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=invins2003&layout=compact&theme=dracula" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=invins2003&layout=compact&theme=dracula" height="140px" />
 </p>
 
 ---
 
-### ⏳ **WakaTime Stats**
+## ⏱ WakaTime Stats
+
 <p align="center">
   <a href="https://wakatime.com/@INVINS">
-    <img src="https://wakatime.com/badge/user/7dcac217-8a22-40c3-b3c6-1e2f69cc24b7.svg" alt="Wakatime Badge" />
+    <img src="https://wakatime.com/badge/user/7dcac217-8a22-40c3-b3c6-1e2f69cc24b7.svg" alt="WakaTime Badge" />
   </a>
 </p>
 
 ---
 
-### 🎯 **Goals for 2025**
-- 🚀 Contribute to more open-source projects.
-- 🌱 Learn and master **Rust** and **Go**.
-- 📱 Build a full-stack mobile app with **Flutter** and **Firebase**.
-- 🤖 Dive deeper into **AI/ML** and explore **Generative AI**.
+## 🎯 2025 Goals
+
+- 🌍 Contribute more to **open-source** projects  
+- ⚙️ Master **Rust** and **Go**  
+- 📱 Build a **Full-Stack Flutter + Firebase** app  
+- 🤖 Explore **Generative AI** and **MLOps**
 
 ---
 
-### 💡 **Fun Fact**
-I believe in the power of code to change the world, one line at a time. When I'm not coding, you'll find me exploring new music, reading sci-fi novels, or tinkering with hardware projects.
+## 🎵 Fun Fact
+
+When I’m not coding, I’m probably:  
+🎧 Curating playlists, 📚 reading sci-fi, or 🔧 tinkering with gadgets.
 
 ---
 
-### 🐍 **Snake Animation**
+## 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/invins2003/invins2003/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Code is not just instructions — it’s imagination translated into logic.”</i> ✨
 </p>
