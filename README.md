@@ -25,92 +25,43 @@ I’m a **Full-Stack Developer** who loves building things that make a differenc
 From crafting sleek mobile apps to diving deep into AI models — I’m constantly exploring, learning, and innovating.
 
 💡 **Core Focus Areas:**
-- 📱 Android & Flutter App Development
-- ☁️ Cloud Computing & Backend Systems (Firebase / AWS)
-- 🧠 Machine Learning & Computer Vision
-- 🌐 Full-Stack Web Development
+- 📱 Android & Flutter App Development  
+- ☁️ Cloud Computing & Backend Systems (Firebase / AWS)  
+- 🧠 Machine Learning & Computer Vision  
+- 🌐 Full-Stack Web Development  
 
 ⚡ *I believe great code isn’t just functional — it’s elegant, efficient, and human-friendly.*
+
+---
+
+## 📬 Connect With Me
+
+📧 **Email:** [ambit.official.misra@gmail.com](mailto:ambit.official.misra@gmail.com)  
+💼 **LinkedIn:** [Ambit Misra](https://linkedin.com/in/ambitmisra)  
+🐦 **Twitter:** [@invins_idle](https://twitter.com/invins_idle)  
+📝 **Medium:** [@ambitmisra](https://medium.com/@ambitmisra)
+
+---
+
+## 🌐 Social Presence
+
+<p align="center">
+  <a href="https://codepen.io/invins" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" height="40" /></a>
+  <a href="https://twitter.com/invins_idle" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
+  <a href="https://linkedin.com/in/ambitmisra" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://instagram.com/_dis__placed_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+  <a href="https://medium.com/@ambitmisra" target="_blank"><img src="https://skillicons.dev/icons?i=medium" height="40" /></a>
+  <a href="https://www.hackerrank.com/@ambitmisra" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" height="40" /></a>
+</p>
 
 ---
 
 ## ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <details>
-    <summary><b>📱 Mobile Development</b></summary>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,java" />
-  </details>
-  <details>
-    <summary><b>🌐 Web & Backend</b></summary>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=react,django,flask,nodejs,mongodb" />
-  </details>
-  <details>
-    <summary><b>🤖 AI & Machine Learning</b></summary>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" />
-  </details>
-  <details>
-    <summary><b>☁️ Cloud, DevOps & Tools</b></summary>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=firebase,aws,docker,git,postman,figma" />
-  </details>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,java,kotlin,python,tensorflow,pytorch,sklearn,opencv,react,firebase,mongodb,aws,django,flask,docker,git,postman,figma" />
 </p>
 
----
-
-## 🚀 My Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Project Title 1</h3>
-      <br />
-      <a href="[PROJECT-LIVE-OR-REPO-LINK]">
-        <img src="[PROJECT-IMAGE-URL]" alt="Project 1 Screenshot" width="100%">
-      </a>
-      <br />
-      <p align="center">
-        Short description of your project. What it does, why it's cool, and what tech was used.
-      </p>
-      <p align="center">
-        <a href="[PROJECT-REPO-LINK]">
-          <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" />
-        </a>
-        <a href="[PROJECT-LIVE-LINK]">
-          <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Project Title 2</h3>
-      <br />
-      <a href="[PROJECT-LIVE-OR-REPO-LINK]">
-        <img src="[PROJECT-IMAGE-URL]" alt="Project 2 Screenshot" width="100%">
-      </a>
-      <br />
-      <p align="center">
-        Short description of your project. What it does, why it's cool, and what tech was used.
-      </p>
-      <p align="center">
-        <a href="[PROJECT-REPO-LINK]">
-          <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" />
-        </a>
-        <a href="[PROJECT-LIVE-LINK]">
-          <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📰 My Latest Articles
-
-<p align="center"><i>Loading my latest posts from Medium...</i></p>
 ---
 
 ## 📊 GitHub Analytics
@@ -136,33 +87,11 @@ From crafting sleek mobile apps to diving deep into AI models — I’m constant
 
 ---
 
-## 📬 Connect With Me
-
-📧 **Email:** [ambit.official.misra@gmail.com](mailto:ambit.official.misra@gmail.com)  
-💼 **LinkedIn:** [Ambit Misra](https://linkedin.com/in/ambitmisra)  
-🐦 **Twitter:** [@invins_idle](https://twitter.com/invins_idle)  
-📝 **Medium:** [@ambitmisra](https://medium.com/@ambitmisra)
-
----
-
-## 🌐 Find Me Elsewhere
-
-<p align="center">
-  <a href="https://codepen.io/invins" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" height="40" /></a>
-  <a href="https://twitter.com/invins_idle" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
-  <a href="https://linkedin.com/in/ambitmisra" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://instagram.com/_dis__placed_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-  <a href="https://medium.com/@ambitmisra" target="_blank"><img src="https://skillicons.dev/icons?i=medium" height="40" /></a>
-  <a href="https://www.hackerrank.com/@ambitmisra" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" height="40" /></a>
-</p>
-
----
-
 ## 🎯 2025 Goals
 
-- 🌍 Contribute more to **open-source** projects
-- ⚙️ Master **Rust** and **Go**
-- 📱 Build a **Full-Stack Flutter + Firebase** app
+- 🌍 Contribute more to **open-source** projects  
+- ⚙️ Master **Rust** and **Go**  
+- 📱 Build a **Full-Stack Flutter + Firebase** app  
 - 🤖 Explore **Generative AI** and **MLOps**
 
 ---
