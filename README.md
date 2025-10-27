@@ -6,12 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=invins2003&theme=dracula&no-frame=true" alt="Profile Trophy" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://twitter.com/invins_idle" target="blank">
     <img src="https://img.shields.io/twitter/follow/invins_idle?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
