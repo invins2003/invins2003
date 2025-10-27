@@ -68,7 +68,7 @@ From crafting sleek mobile apps to diving deep into AI models — I’m constant
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=invins2003&show_icons=true&theme=dracula" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=invins2003&theme=dracula" height="160px" />
+  <img src="https://streak-stats.demolab.com/?user=invins2003&theme=dracula" height="160px" />
 </p>
 
 <p align="center">
@@ -90,8 +90,7 @@ From crafting sleek mobile apps to diving deep into AI models — I’m constant
 ## 🎯 2025 Goals
 
 - 🌍 Contribute more to **open-source** projects  
-- ⚙️ Master **Rust** and **Go**  
-- 📱 Build a **Full-Stack Flutter + Firebase** app  
+- ⚙️ Master **Rust** and **Go** - 📱 Build a **Full-Stack Flutter + Firebase** app  
 - 🤖 Explore **Generative AI** and **MLOps**
 
 ---
