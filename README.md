@@ -105,7 +105,7 @@ When I’m not coding, I’m probably:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/invins2003/invins2003/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/invins2003/invins2003/main/assets/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
